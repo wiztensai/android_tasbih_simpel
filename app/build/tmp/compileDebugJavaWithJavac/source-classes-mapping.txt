@@ -1,0 +1,2 @@
+com/example/tasbihsimpel/BuildConfig.java
+ com.example.tasbihsimpel.BuildConfig
